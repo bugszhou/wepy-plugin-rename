@@ -1,5 +1,5 @@
 {
-  "name": "wepy-plugin-rename",
+  "name": "wepy-plugin-file-rename",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
