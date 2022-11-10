@@ -1,0 +1,22 @@
+{
+  "name": "wepy-plugin-rename",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/wepy-plugin-rename.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugszhou/wepy-plugin-rename/issues"
+  },
+  "homepage": "https://github.com/bugszhou/wepy-plugin-rename#readme",
+  "dependencies": {
+    "normalize-path": "^3.0.0"
+  }
+}
