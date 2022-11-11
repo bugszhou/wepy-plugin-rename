@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/bugszhou/wepy-plugin-rename#readme",
   "dependencies": {
+    "@babel/generator": "^7.20.4",
+    "@babel/parser": "^7.20.3",
+    "@babel/traverse": "^7.20.1",
     "normalize-path": "^3.0.0"
   }
 }
